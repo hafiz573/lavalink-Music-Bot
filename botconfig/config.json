@@ -1,12 +1,12 @@
 {
-  "token": "TOKEN",
-  "prefix": "!",
+  "token": "ODU4OTA0OTA0MTEwNTcxNTUw.YNk7hg.Z5RE5UmUmNinLBNvYkD_KiWNUi8",
+  "prefix": ".",
 
   "clientsettings": {
     "nodes": [
       {
-         "host": "localhost",
-         "port": 2333,
+         "host": "lava.link",
+         "port": 80,
          "password": "youshallnotpass"
        }
      ]
@@ -41,11 +41,11 @@
   },
 
 
-  "ownerIDS": ["442355791412854784"],
+  "ownerIDS": ["693114946736750689"],
 
 
   "status": {
-    "text": "!help | powered by milrato.eu",
+    "text": ".help",
     "type": "STREAMING", "COMMENT:": "TYPES ARE: PLAYING, STREAMING, WATCHING, LISTENING",
     "url": "https://twitch.tv/milratodiscordbot"
   }
