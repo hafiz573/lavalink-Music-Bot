@@ -5,6 +5,18 @@ const colors = require("colors"); //this Package is used, to change the colors o
 const Enmap = require("enmap"); //this package is our Database! We will use it to save the data for ever!
 const fs = require("fs"); //this package is for reading files and getting their inputs
 
+const express = require('express')
+const app = express()
+const port = 3000
+
+app.get('/', (req, res) => {
+  res.send('App running')
+})
+
+app.listen(port, () => {
+  console.log(`Your app is listening at http://localhost:${port}`)
+})
+
 //Creating the Discord.js Client for This Bot with some default settings ;) and with partials, so you can fetch OLD messages
 const client = new Discord.Client({
   fetchAllMembers: false,
