@@ -1,6 +1,6 @@
 {
-  "prefix": "!",
-  "clientId": "Client id",
+  "prefix": "jp!!",
+  "clientId": "893328836224229406",
   "clientsettings": {
     "nodes": [
       {
@@ -12,8 +12,8 @@
   },
 
   "spotify": {
-    "clientSecret": "",
-    "clientID": ""
+    "clientSecret": "a7fcdaefef9a4d4c814f3494caffa977",
+    "clientID": "020b03c06c5f4b9c8ea0eb0b3dbf2b97"
   },
 
   "settings": {
@@ -35,18 +35,18 @@
     "lyrics_finder": true, "COMMENT": "my suggestion is to use ksoft_api on true and paste in the api key u can sign up, until u get the key use lyrics_finder which is way weaker but better the nothing",
     "ksoft_api": {
       "use_this_instead": false,
-      "api_key": ""
+      "api_key": "AIzaSyAAg3GHxipuyDz7KsCAv434yoFT56TR9LQ"
     }
   },
 
 
-  "ownerIDS": ["442355791412854784"],
+  "ownerIDS": ["853474779730149376"],
 
 
   "status": {
-    "text": "!help | powered by lavalink",
-    "type": "STREAMING", "COMMENT:": "TYPES ARE: PLAYING, STREAMING, WATCHING, LISTENING",
-    "url": "https://twitch.tv/milratodiscordbot"
+    "text": "jp!!help | powered by lavalink",
+    "type": "Playing", "COMMENT:": "TYPES ARE: PLAYING, STREAMING, WATCHING, LISTENING",
+    "url": ""
   }
 
 }
