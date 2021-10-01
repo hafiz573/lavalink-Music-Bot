@@ -103,8 +103,6 @@ ${owner == true ? `\n👑 **==>** To see the **Owner** Commands` : ""}
 ${userperms == true ? `\n⚙️ **==>** To see the **Setting** Commands` : ""}
 
 `)
-.setImage("https://media.discordapp.net/attachments/859145282536996874/859145317127684136/standard.gif")
-
         sendBaseEmbed();
 
         async function sendBaseEmbed(basemsg) {
